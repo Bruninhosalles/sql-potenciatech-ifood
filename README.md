@@ -1,6 +1,6 @@
 **Desafio SQL do Potência Tech powered by iFood**
 
-Foi proposto para o desafio, a modelagem de projeto um de banco de dados para o cenário de e-commerce, a qual foi alimentado com dados fictícios para a execução de algumas querys.
+Foi proposto para o desafio, a modelagem de projeto um de banco de dados Conceitual e Lógico para o cenário de e-commerce, a qual foi alimentado com dados fictícios para a execução de algumas querys.
 
     -- criação do banco de dados para o cenário de E-commerce
     create database ecommerce;
